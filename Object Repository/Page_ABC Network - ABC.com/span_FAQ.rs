@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_FAQ</name>
+   <tag></tag>
+   <elementGuidId>5cebc236-ca3b-4b97-b9dd-67e5ff91e767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fitt-analytics']/div/main/footer/section/div/div[6]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;FAQ&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05f75468-5d48-45c2-a9da-5bdd31b0103f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5cac16fb-6e74-482e-8598-8c902ab686b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ</value>
+      <webElementGuid>30cfb5ba-d838-49d6-99dc-f8e683850b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fitt-analytics&quot;)/div[@class=&quot;bp-mobileTablet bp-tablet bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus no-touch&quot;]/main[@class=&quot;layout page-home abc-com truncate-str-patch&quot;]/footer[@class=&quot;footer grouped gap&quot;]/section[@class=&quot;footer__wrapper footer__menu flex&quot;]/div[@class=&quot;footer__group&quot;]/div[@class=&quot;fitt-tracker&quot;]/a[@class=&quot;AnchorLink footer__link&quot;]/span[1]</value>
+      <webElementGuid>939ff391-6271-4105-b4e5-772bb4b2b80a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fitt-analytics']/div/main/footer/section/div/div[6]/a/span</value>
+      <webElementGuid>cfd76ba4-cc24-4e73-bc3b-41fbf8ef7b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/span</value>
+      <webElementGuid>b4fc7898-0ce5-4294-ad4c-98838d544487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'FAQ' or . = 'FAQ')]</value>
+      <webElementGuid>10abce6f-88bb-4cee-ba1b-477e4f424084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

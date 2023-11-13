@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Link TV Provider</name>
+   <tag></tag>
+   <elementGuidId>b1d9c9fe-c8b1-436c-8899-cfb2693ec8b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-menu']/ul/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>318d691b-af6b-45e5-82a5-5ee9dd7454fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AnchorLink LoginMenu__item</value>
+      <webElementGuid>c4ad046a-80ea-46a2-8fdb-8076ea324602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d7674ccb-ae58-49be-b5f0-3c3d1ea8ee1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>4df98d8f-0110-45e0-a34f-e7b60691d5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-global.tagid</name>
+      <type>Main</type>
+      <value>f_click01</value>
+      <webElementGuid>c0d5fbfd-adda-4a55-9e5e-e874f59dd68f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-link_name_custom</name>
+      <type>Main</type>
+      <value>abc:Home - Free View:sign in</value>
+      <webElementGuid>7f8fa526-6645-4ba0-a667-a1e9e910fa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link TV Provider</value>
+      <webElementGuid>9153ebce-82d3-4496-a831-a8c89aeb4e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-menu&quot;)/ul[@class=&quot;LoginMenu__wrapper&quot;]/a[@class=&quot;AnchorLink LoginMenu__item&quot;]</value>
+      <webElementGuid>da5e9899-8407-47d8-8015-00becfb90572</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-menu']/ul/a[2]</value>
+      <webElementGuid>558e8957-6074-46d3-9af1-8278299366b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Link TV Provider')]</value>
+      <webElementGuid>d76af2c3-1e51-4611-9ab5-28c6b052bee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>441546d7-b214-488e-a88b-f3a2dc62467a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>5f86f8d8-8ad7-4485-ad9b-572e7974ab07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Link TV Provider' or . = 'Link TV Provider')]</value>
+      <webElementGuid>c99a8f06-8ca6-4f8e-ba37-4cd2dcccc1a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

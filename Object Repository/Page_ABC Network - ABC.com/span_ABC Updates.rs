@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ABC Updates</name>
+   <tag></tag>
+   <elementGuidId>657f0ad7-d51b-4931-9a17-a66fa91c2785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fitt-analytics']/div/main/footer/section/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;ABC Updates&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>610bb0fb-8ccb-4d71-963f-ac7f2b4ef204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>46115564-1ec5-450f-9019-64186869b634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABC Updates</value>
+      <webElementGuid>538607c8-4bdf-470a-a64b-cf3874f7dab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fitt-analytics&quot;)/div[@class=&quot;bp-mobileTablet bp-tablet bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus no-touch&quot;]/main[@class=&quot;layout page-home abc-com truncate-str-patch&quot;]/footer[@class=&quot;footer grouped gap&quot;]/section[@class=&quot;footer__wrapper footer__menu flex&quot;]/div[@class=&quot;footer__group&quot;]/div[@class=&quot;fitt-tracker&quot;]/a[@class=&quot;AnchorLink footer__link&quot;]/span[1]</value>
+      <webElementGuid>788041b5-6b56-4d4b-98ac-0af947c46034</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fitt-analytics']/div/main/footer/section/div/div/a/span</value>
+      <webElementGuid>d949de60-0402-40ab-a67c-8db6d9293fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/a/span</value>
+      <webElementGuid>363698e3-d228-4cbe-951c-01686f73dcca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ABC Updates' or . = 'ABC Updates')]</value>
+      <webElementGuid>01fe3cbb-5ce3-4346-8587-3c03ca34fa06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

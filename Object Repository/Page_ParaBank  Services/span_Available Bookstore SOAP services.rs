@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Available Bookstore SOAP services</name>
+   <tag></tag>
+   <elementGuidId>9c79f99d-5433-4866-8ee6-7f9aee39c45d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rightPanel']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2fbcfc5-d726-4f15-b8e5-2424af4af8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>5a20984f-db3b-4608-bcc1-1b1629bd82be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Available Bookstore SOAP services:</value>
+      <webElementGuid>1a99023e-e2dc-4125-990f-306b114d6177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightPanel&quot;)/span[@class=&quot;heading&quot;]</value>
+      <webElementGuid>d04dc8f5-4228-4f4b-83ca-8fc68f18582c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightPanel']/span</value>
+      <webElementGuid>23dca685-2e6c-41f0-8b2a-c0b46a43088c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>126761bd-5ad0-4c21-ae49-5984d28c90ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Available Bookstore SOAP services:' or . = 'Available Bookstore SOAP services:')]</value>
+      <webElementGuid>22695333-9ea8-4863-8a1c-35c61802d6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

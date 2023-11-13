@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_news</name>
+   <tag></tag>
+   <elementGuidId>c6df00b4-2eef-4aa6-b125-2c3cf5de9908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='news']/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#news > a.AnchorLink.navButton__link.dib.hide-mobile.tc.fitt-tracker > div.abc__link > span.navButton__text.ttc.tc.dib</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f6adf99-009b-429c-9945-403ad2070901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navButton__text ttc tc dib</value>
+      <webElementGuid>2e415849-15c4-4f8a-9762-d4e7938ca303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>news</value>
+      <webElementGuid>96363b70-2727-4fac-bdc7-cdce4d477576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fitt-analytics&quot;)/div[@class=&quot;bp-mobileTablet bp-tablet bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus no-touch&quot;]/main[@class=&quot;layout page-home abc-com truncate-str-patch&quot;]/nav[@class=&quot;navigation&quot;]/div[@class=&quot;navigation__container&quot;]/div[@class=&quot;navigation__menu&quot;]/div[@class=&quot;navigation__group&quot;]/div[@id=&quot;news&quot;]/a[@class=&quot;AnchorLink navButton__link dib hide-mobile tc fitt-tracker&quot;]/div[@class=&quot;abc__link&quot;]/span[@class=&quot;navButton__text ttc tc dib&quot;]</value>
+      <webElementGuid>d3ffb3c4-37f0-45e4-b025-c2a1f2bfa6d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='news']/a/div/span</value>
+      <webElementGuid>594781f7-ef52-4486-bcd2-8ba3363c6744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/span</value>
+      <webElementGuid>761d4439-28d2-4e18-843b-d882602f3b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'news' or . = 'news')]</value>
+      <webElementGuid>83378e3d-e100-4517-841c-2a7d6a45d57c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

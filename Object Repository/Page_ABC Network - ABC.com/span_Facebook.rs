@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Facebook</name>
+   <tag></tag>
+   <elementGuidId>09bb5c92-d4c5-4be6-b1d7-a18f97426f56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fitt-analytics']/div/main/footer/section/div[3]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Facebook&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7acdee78-7e8c-4456-a211-7fb8ce3cbbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>00753de5-0d1a-4f78-9cd2-29126f0a7c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook</value>
+      <webElementGuid>94c6c8e9-0734-4f63-9ccd-23cb54e95d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fitt-analytics&quot;)/div[@class=&quot;bp-mobileTablet bp-tablet bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus no-touch&quot;]/main[@class=&quot;layout page-home abc-com truncate-str-patch&quot;]/footer[@class=&quot;footer grouped gap&quot;]/section[@class=&quot;footer__wrapper footer__menu flex&quot;]/div[@class=&quot;footer__group&quot;]/div[@class=&quot;fitt-tracker&quot;]/a[@class=&quot;AnchorLink footer__link&quot;]/span[1]</value>
+      <webElementGuid>cea9023d-8cf9-4489-8342-c140cee06ac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fitt-analytics']/div/main/footer/section/div[3]/div[2]/a/span</value>
+      <webElementGuid>96e2ea15-ad8b-4c37-84b1-24d35496e9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a/span</value>
+      <webElementGuid>fa3d751e-963e-4c82-9f4f-638968164d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Facebook' or . = 'Facebook')]</value>
+      <webElementGuid>d46619db-b6a8-499b-8764-04217acb5492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

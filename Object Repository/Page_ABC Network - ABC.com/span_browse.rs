@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_browse</name>
+   <tag></tag>
+   <elementGuidId>77a1bd0a-87dc-44d0-822c-19fc8464abc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='browse']/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.AnchorLink.navButton__link.dib.hide-mobile.tc.fitt-tracker > div.abc__link > span.navButton__text.ttc.tc.dib</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b0a264a-3950-4afc-9eef-ea5f4114ecf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navButton__text ttc tc dib</value>
+      <webElementGuid>3c81c0ba-8a1a-46c4-920c-3e4fa9b4f23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>browse</value>
+      <webElementGuid>65f8f2c3-95ea-45fa-837a-219d6bb574cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fitt-analytics&quot;)/div[@class=&quot;bp-mobileTablet bp-tablet bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus no-touch&quot;]/main[@class=&quot;layout page-home abc-com truncate-str-patch&quot;]/nav[@class=&quot;navigation&quot;]/div[@class=&quot;navigation__container&quot;]/div[@class=&quot;navigation__menu&quot;]/div[@class=&quot;navigation__group&quot;]/div[@id=&quot;browse&quot;]/a[@class=&quot;AnchorLink navButton__link dib hide-mobile tc fitt-tracker&quot;]/div[@class=&quot;abc__link&quot;]/span[@class=&quot;navButton__text ttc tc dib&quot;]</value>
+      <webElementGuid>26a07794-51f7-4bbc-bec3-ef5aa0d322a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='browse']/a/div/span</value>
+      <webElementGuid>8619cf14-abfb-4c10-a149-ceda40887b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/span</value>
+      <webElementGuid>c08ef8ae-260a-44d5-a4a4-f466f6bd78c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'browse' or . = 'browse')]</value>
+      <webElementGuid>a9819bcf-5188-4e93-90ad-2f41dbf52d36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

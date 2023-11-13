@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Connect with ABC on Facebook</name>
+   <tag></tag>
+   <elementGuidId>074a2988-aeb7-48c2-85fb-3e482d2fef25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login_popup_cta_form']/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.xg8j3zb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40ae041b-5331-410b-b9f8-6b6f128d16ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1lliihq x6ikm8r x10wlt62 x1n2onr6 xg8j3zb</value>
+      <webElementGuid>6ea7e639-2670-4476-a0f0-cd66627fe6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Connect with ABC on Facebook</value>
+      <webElementGuid>8db660fa-b27b-448b-b372-fec8a90b20a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_popup_cta_form&quot;)/div[@class=&quot;xxqbpr x1gja9t x17p1517 x8vdgqj x2b8uid&quot;]/div[@class=&quot;x1xka2u1 xqfms19&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1ill7wo x1x48ksl x1q74xe4 xyesn5m x1xlr1w8 xzsf02u x2b8uid&quot;]/span[@class=&quot;x1lliihq x6ikm8r x10wlt62 x1n2onr6 xg8j3zb&quot;]</value>
+      <webElementGuid>f3b5672c-efbc-42f9-8f15-ed1ea7fe63f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login_popup_cta_form']/div/div/span/span</value>
+      <webElementGuid>63ce5d3a-79d0-4d2e-891a-f170d241513f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/span/span</value>
+      <webElementGuid>287facb4-8486-4a28-9797-7df7697d4e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Connect with ABC on Facebook' or . = 'Connect with ABC on Facebook')]</value>
+      <webElementGuid>59164d66-a91e-48dc-8c7c-3faa2fbb8a32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
