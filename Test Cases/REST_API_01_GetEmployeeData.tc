@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REST_API_01_GetEmployeeData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e37e276-9cf4-4086-99a7-e4c4a6d8adfa</testCaseGuid>
+</TestCaseEntity>
