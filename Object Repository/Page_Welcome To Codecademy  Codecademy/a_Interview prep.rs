@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Interview prep</name>
+   <tag></tag>
+   <elementGuidId>d11b9194-df3f-43f1-b572-8f8f7a89cb27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b853c9aa-7f92-432e-8a99-e96050d24766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pages/interview-prep</value>
+      <webElementGuid>57c41481-f128-4901-81b9-8b5da56a7c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-96w4x4-AnchorBase e14vpv2g0</value>
+      <webElementGuid>2f2213b4-e2bd-4606-a966-a4b2f48da31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interview prep</value>
+      <webElementGuid>ff81c37e-9fe4-4f7f-b8b1-407b955f4eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-2ry0sg e1am55212&quot;]/div[@class=&quot;gamut-glpvwy-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-d1cdmh-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-25mlb6-Box e1am55211&quot;]/li[@class=&quot;gamut-1ugzxxi e1am55210&quot;]/a[@class=&quot;gamut-96w4x4-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>91ccaeb6-4d1e-41bd-af93-a2796fb53451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      <webElementGuid>d46a546b-2ee8-4dd9-b53a-587d6dd73d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Interview prep')]</value>
+      <webElementGuid>284d6edf-8c4e-4382-ab1e-8fb987f41f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pages/interview-prep')]</value>
+      <webElementGuid>3b744409-4005-442b-9606-24b18bf4efb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/ul/li[3]/a</value>
+      <webElementGuid>0fa85a95-96f5-41da-a120-58494fa12592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pages/interview-prep' and (text() = 'Interview prep' or . = 'Interview prep')]</value>
+      <webElementGuid>42484ee8-b256-4db2-8802-362ed891a465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

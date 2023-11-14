@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learner Stories</name>
+   <tag></tag>
+   <elementGuidId>073c512f-1b68-4c66-a335-ef9d45b56574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a9b2e855-93b9-4395-b3c6-8cbcf8afdd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.codecademy.com/resources/blog/category/learner-stories</value>
+      <webElementGuid>639de99e-1e21-4825-aa78-c5bc46ca5d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6e0ad3f8-5d13-4a71-8f0a-4c1551cb3499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-gi2olp-AnchorBase e14vpv2g0</value>
+      <webElementGuid>5d77697e-ca45-4252-aa67-7eab514fb5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learner Stories</value>
+      <webElementGuid>f9209c8a-db7e-4cc0-9250-3952b87ed3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-15b6f3e-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1oivdx9-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-1jk5e01-Box ebdzcwh1&quot;]/li[@class=&quot;gamut-77pqup ebdzcwh0&quot;]/a[@class=&quot;gamut-gi2olp-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>2b7a0b57-87c0-4d8c-bdbc-b8c815cc064c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div[2]/ul/li[6]/a</value>
+      <webElementGuid>81d5a997-4cf3-4108-89a5-89cf4ba98b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Learner Stories')])[2]</value>
+      <webElementGuid>1499f65a-a426-4398-a191-db5f7b70ed22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.codecademy.com/resources/blog/category/learner-stories')]</value>
+      <webElementGuid>45367158-f7ea-471a-8c3c-8b15b8146f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/a</value>
+      <webElementGuid>89e8051f-75e8-4321-a49a-e5a530f0e85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.codecademy.com/resources/blog/category/learner-stories' and (text() = 'Learner Stories' or . = 'Learner Stories')]</value>
+      <webElementGuid>f2e2c5e3-2c80-4b87-85a6-63cba56fff82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

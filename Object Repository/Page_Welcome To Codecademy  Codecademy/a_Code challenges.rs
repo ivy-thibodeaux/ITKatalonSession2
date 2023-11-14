@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Code challenges</name>
+   <tag></tag>
+   <elementGuidId>c1626fbf-60dc-4b9c-a0b3-904c318968b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div/div/div[2]/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df7e33f8-c38f-4ff3-ba1b-4d33e8abfccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/code-challenges</value>
+      <webElementGuid>cf5b01d5-b24b-4b0d-90da-cf9fa8b6ef3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-gi2olp-AnchorBase e14vpv2g0</value>
+      <webElementGuid>fcf6b5f7-5114-4380-94db-4dd71590a948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Code challenges</value>
+      <webElementGuid>bca4b8ff-75c9-43b6-9dde-f35cce35d903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-15b6f3e-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-6jvxk2-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-5kj303-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-1jk5e01-Box ebdzcwh1&quot;]/li[@class=&quot;gamut-77pqup ebdzcwh0&quot;]/a[@class=&quot;gamut-gi2olp-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>c40d114e-8c7d-4783-b374-52d91e03b069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div/div/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>70a576be-7dc2-4b1c-99eb-3919f4182ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Code challenges')])[2]</value>
+      <webElementGuid>8b6104f4-c749-46ab-976a-558a5d9c065a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/code-challenges')])[3]</value>
+      <webElementGuid>0abe2f45-275c-47d2-8901-1e35ec797083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>9bd0fcb9-2347-4049-9b68-bca0991bd3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/code-challenges' and (text() = 'Code challenges' or . = 'Code challenges')]</value>
+      <webElementGuid>f29d7bce-6997-4114-8fea-4abb4bf88334</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_missed connections</name>
+   <tag></tag>
+   <elementGuidId>9c8697d9-1eca-437f-92f8-95f1d3f3a0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mis > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ccc1']/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba6f4696-a4c6-4596-a8da-9be464b09729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>dc93f87e-e59c-44ab-bd8e-a15f6e5d3eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>missed connections</value>
+      <webElementGuid>f5b3c35c-ecbd-410d-8bca-327c383920e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ccc1&quot;)/li[2]/a[@class=&quot;mis&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>ef81d7b9-d2e9-4c38-ab27-f40c10796663</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ccc1']/li[2]/a/span</value>
+      <webElementGuid>5ac938f0-b47a-41d9-9590-d8b73b086563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a/span</value>
+      <webElementGuid>212cd8f2-3310-4006-8070-90c58f477e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'missed connections' or . = 'missed connections')]</value>
+      <webElementGuid>d653fc78-937d-4b5a-97d0-26f418269f04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

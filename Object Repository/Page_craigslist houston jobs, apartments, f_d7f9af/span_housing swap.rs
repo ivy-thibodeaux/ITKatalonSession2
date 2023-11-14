@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_housing swap</name>
+   <tag></tag>
+   <elementGuidId>c7e16aca-e4d2-4071-bd5d-ac1d291661c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.swp > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='hhh0']/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b23f1a7-f571-48ff-b8ce-a489ad3e7cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>71d4b64f-caea-48bd-9824-f3ec9098560e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>housing swap</value>
+      <webElementGuid>051227aa-81f0-40e9-8216-81ad334d1b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hhh0&quot;)/li[2]/a[@class=&quot;swp&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>68671912-77a7-4505-92ea-a9411335eeb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='hhh0']/li[2]/a/span</value>
+      <webElementGuid>1f5b7929-70f6-42ef-8180-387ba34b1fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>4d7e9b10-2409-4217-b406-91fe4f5a62f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'housing swap' or . = 'housing swap')]</value>
+      <webElementGuid>842f933c-5eb8-4255-a933-4914de1489f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

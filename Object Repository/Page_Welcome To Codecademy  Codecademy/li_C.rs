@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_C</name>
+   <tag></tag>
+   <elementGuidId>ccd056d0-12ee-4306-82fa-e64495bbdd4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div[2]/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5e6049a4-1bc4-4d50-8dcb-d60e753dca06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-1ugzxxi e1am55210</value>
+      <webElementGuid>8f67add8-da68-4ebf-a709-eb1b1a0bf59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C++</value>
+      <webElementGuid>42bf5429-af47-457c-b785-c601d3fea5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-2ry0sg e1am55212&quot;]/div[@class=&quot;gamut-glpvwy-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1ttipmj-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-25mlb6-Box e1am55211&quot;]/li[@class=&quot;gamut-1ugzxxi e1am55210&quot;]</value>
+      <webElementGuid>5a9083f8-0940-4ece-aaa1-606ad2f4d4fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>1fd2f663-0544-40b6-84e4-f73de91b347b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>dbdaaa43-e0e6-4e82-ba40-f6eb8ef29b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'C++' or . = 'C++')]</value>
+      <webElementGuid>b220da40-60bb-4044-aad0-f2fd5b87319f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Visualization</name>
+   <tag></tag>
+   <elementGuidId>377f73fe-ecb9-4945-b107-8e1e0b2ef13c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aec02e65-7f7e-4f6c-b7c1-e867b88c3b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/subject/data-visualization</value>
+      <webElementGuid>4e2362c0-9883-41c8-9145-d77d8f57e02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-96w4x4-AnchorBase e14vpv2g0</value>
+      <webElementGuid>a7613b35-e483-4d25-8d41-8b1dfdcbdf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Visualization</value>
+      <webElementGuid>11b7af7d-9cf7-40e6-b89e-0ebbf283fbd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-2ry0sg e1am55212&quot;]/div[@class=&quot;gamut-glpvwy-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1ttipmj-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-25mlb6-Box e1am55211&quot;]/li[@class=&quot;gamut-1ugzxxi e1am55210&quot;]/a[@class=&quot;gamut-96w4x4-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>49233594-5fb4-4592-9322-57013de5f8be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[8]/a</value>
+      <webElementGuid>6004bbae-d817-44ee-b04a-c6431e7cf038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Data Visualization')]</value>
+      <webElementGuid>ee9fe825-9cef-4c1e-b940-60b348304f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/catalog/subject/data-visualization')]</value>
+      <webElementGuid>6d0c131d-f45a-45da-94ee-103330e44220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[8]/a</value>
+      <webElementGuid>c708ef10-6bfd-4ffd-807e-8b16e526824a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/subject/data-visualization' and (text() = 'Data Visualization' or . = 'Data Visualization')]</value>
+      <webElementGuid>5aac867d-ee13-4798-893c-6ad747821799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

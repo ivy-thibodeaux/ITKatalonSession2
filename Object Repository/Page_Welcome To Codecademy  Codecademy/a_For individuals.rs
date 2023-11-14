@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_For individuals</name>
+   <tag></tag>
+   <elementGuidId>7ff37b47-3fc7-4c10-a220-9b77dda450d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gamut-cdht0j-Box.ebnwbv90 > ul.gamut-1jk5e01-Box.ebdzcwh1 > li.gamut-77pqup.ebdzcwh0 > a.gamut-gi2olp-AnchorBase.e14vpv2g0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29ddc1bc-52c3-4586-ae96-1e5db295658c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pages/paid-plans</value>
+      <webElementGuid>8840ad0e-0502-4044-b75c-3937e10207e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-gi2olp-AnchorBase e14vpv2g0</value>
+      <webElementGuid>35492de7-d33b-4e77-9773-045c0afca203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For individuals</value>
+      <webElementGuid>2462e48a-7de8-48f6-af88-65ee39f0fc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-15b6f3e-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1oivdx9-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-cdht0j-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-1jk5e01-Box ebdzcwh1&quot;]/li[@class=&quot;gamut-77pqup ebdzcwh0&quot;]/a[@class=&quot;gamut-gi2olp-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>9ec4d2bf-1d8a-4f25-9253-e041f22c0d37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li/a</value>
+      <webElementGuid>4e54c959-f7f5-4892-a847-0f38516e2479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'For individuals')]</value>
+      <webElementGuid>4d2236f8-98a2-4b74-bc1e-d50e8b02fc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pages/paid-plans')]</value>
+      <webElementGuid>47c0fad4-e68c-4669-92bb-91260a44eea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/a</value>
+      <webElementGuid>7f868630-c730-4e0f-9a54-70689f485df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pages/paid-plans' and (text() = 'For individuals' or . = 'For individuals')]</value>
+      <webElementGuid>d094abc4-cf31-4d7b-beb0-123702c66c01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

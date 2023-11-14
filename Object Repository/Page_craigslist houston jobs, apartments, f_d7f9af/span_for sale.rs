@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_for sale</name>
+   <tag></tag>
+   <elementGuidId>81900af3-e465-4785-9e34-97749b45f1f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sss > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sss']/h3/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>992a76ef-ec88-4092-a38c-fb6adaba2eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>598e3ca4-c446-4705-9f03-9e7bceaeb198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>for sale</value>
+      <webElementGuid>90d93672-e303-4a9a-b29f-7ccc69fac189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sss&quot;)/h3[@class=&quot;ban&quot;]/a[@class=&quot;sss&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>7b89ccfe-4564-484d-83f5-4d0044c8cc18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sss']/h3/a/span</value>
+      <webElementGuid>1e763974-e418-4a11-9925-b0fb49b17e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/h3/a/span</value>
+      <webElementGuid>a515be89-66ba-4ab6-8330-eb3cdf0685d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'for sale' or . = 'for sale')]</value>
+      <webElementGuid>552b6c39-ff87-4e8b-be15-a51120322312</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

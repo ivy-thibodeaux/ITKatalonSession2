@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Certificates</name>
+   <tag></tag>
+   <elementGuidId>7a16a24f-c50c-4b65-97a8-180f6c657261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='certified_list']/div/div/h2/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#certified_list > div.nav-heading-container.w3-container > div.nav-heading-container-title > h2 > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>c2dc4da1-4b10-4b02-850d-bf728357afd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certificates</value>
+      <webElementGuid>302506c2-24ff-40de-8445-63c688707147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;certified_list&quot;)/div[@class=&quot;nav-heading-container w3-container&quot;]/div[@class=&quot;nav-heading-container-title&quot;]/h2[1]/b[1]</value>
+      <webElementGuid>01e5a357-7a7f-41d7-987a-e8cfeaff6795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='certified_list']/div/div/h2/b</value>
+      <webElementGuid>a6147ca9-9f6e-4690-aa50-0fd14a468eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[3]/div/div/div/div/h2/b</value>
+      <webElementGuid>22e1a542-058e-457e-a670-55bfef71a458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Certificates' or . = 'Certificates')]</value>
+      <webElementGuid>d63bced0-8fb6-43cf-a61a-ad0391d15964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

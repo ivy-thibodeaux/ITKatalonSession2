@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Exercises</name>
+   <tag></tag>
+   <elementGuidId>2e766a39-4c6b-412f-848f-c1131b91a295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='navbtn_exercises']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#navbtn_exercises</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9d60b29e-3d4e-45f3-9694-e421946c26fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tnb-nav-btn w3-bar-item w3-button barex bar-item-hover w3-padding-16 ga-top ga-top-exc-and-quz</value>
+      <webElementGuid>498cc6ba-2ad0-4305-9fd7-acf2fb68d6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>0821008f-afdb-4df5-8732-af0ebc56b904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TopNavBar.openNavItem('exercises')</value>
+      <webElementGuid>2867e8b0-59aa-4be1-93cf-55d33936a3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>navbtn_exercises</value>
+      <webElementGuid>f1c22046-d099-4811-937c-b4150e61e643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Exercises and Quizzes</value>
+      <webElementGuid>b8b3cd4a-a81b-4a58-aa9f-ffd1353bfde3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10d8dfba-341a-42bd-8a57-a75f0148280e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Exercises
+        
+        
+      </value>
+      <webElementGuid>efcae88d-afe5-4958-8636-b2909489146d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbtn_exercises&quot;)</value>
+      <webElementGuid>ac2ea81a-e7bf-4e58-b03b-d0bf00c32d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='navbtn_exercises']</value>
+      <webElementGuid>9f0ad2c6-4a14-4591-bb3f-5376657b1289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagetop']/nav/a[2]</value>
+      <webElementGuid>c8875bd4-d7fe-4c21-a2ba-e8d185917532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Exercises')]</value>
+      <webElementGuid>2df3a82f-9c43-4438-9c1d-93e1e04e33e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>be653b3f-f963-4c31-bacd-dd7f9ad94867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a[2]</value>
+      <webElementGuid>03062c50-02cc-41e1-a1dc-2dd1514120f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'navbtn_exercises' and @title = 'Exercises and Quizzes' and (text() = '
+        Exercises
+        
+        
+      ' or . = '
+        Exercises
+        
+        
+      ')]</value>
+      <webElementGuid>c667a3b9-b805-41a9-b37b-e9008952f9db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

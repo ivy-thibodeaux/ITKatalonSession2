@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_vacation rentals</name>
+   <tag></tag>
+   <elementGuidId>1bb97a52-5074-4d30-8ab3-eac63b28bcba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.vac > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='hhh0']/li[10]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b54e3494-50a4-4069-8b19-21e0bdec1688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>7eb8985c-5bee-46ac-a284-52a7384bfaa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>vacation rentals</value>
+      <webElementGuid>290523d9-4bd2-4ad4-ade0-440bacd8f330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hhh0&quot;)/li[10]/a[@class=&quot;vac&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>6df0166d-c634-4a4c-a517-1ab3fb984410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='hhh0']/li[10]/a/span</value>
+      <webElementGuid>265e8e89-3c1f-4226-9ae8-4385107f48bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[10]/a/span</value>
+      <webElementGuid>33f190a5-72a8-444a-9471-e5d78459a156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'vacation rentals' or . = 'vacation rentals')]</value>
+      <webElementGuid>45c06781-d74b-4c0b-83f7-29e8206a5e4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

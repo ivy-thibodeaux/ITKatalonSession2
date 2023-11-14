@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_For students</name>
+   <tag></tag>
+   <elementGuidId>cfefe46b-1ff4-40e2-af19-0762340ffa28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01043cc8-da9b-4163-a70f-94401a544991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/student-center</value>
+      <webElementGuid>2d9cf297-29c5-46bb-beee-d6c495cfc777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-gi2olp-AnchorBase e14vpv2g0</value>
+      <webElementGuid>9724d5c7-85e7-43ad-8d62-dd4ace224db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For students</value>
+      <webElementGuid>7bb0974c-3fea-41cd-9f72-86f1cd2dad2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-15b6f3e-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1oivdx9-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-cdht0j-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-1jk5e01-Box ebdzcwh1&quot;]/li[@class=&quot;gamut-77pqup ebdzcwh0&quot;]/a[@class=&quot;gamut-gi2olp-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>a5a7d118-6c71-4124-8271-2e260876a983</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li[2]/a</value>
+      <webElementGuid>9eab1b9c-6b94-4157-8d1e-71382a873a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'For students')]</value>
+      <webElementGuid>18932a0f-d3ef-47b7-979c-0f67df1ac111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/student-center')])[2]</value>
+      <webElementGuid>fd4c7ff4-cda8-44f8-af0e-fbf5e8a1c7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[2]/a</value>
+      <webElementGuid>a2d1b5df-5d73-4a8c-913a-f7f57c7c14ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/student-center' and (text() = 'For students' or . = 'For students')]</value>
+      <webElementGuid>42e33e58-17a8-44ff-88f0-950863e2b507</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

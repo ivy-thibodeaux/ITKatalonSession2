@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Machine Learning</name>
+   <tag></tag>
+   <elementGuidId>ee8205a6-b362-49a4-bd05-5f7346debf4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[13]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b209d81c-c156-4c24-9931-0e2546f0da26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/subject/machine-learning</value>
+      <webElementGuid>d5d465ac-000c-44cb-ac54-3bb0e13dca9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-96w4x4-AnchorBase e14vpv2g0</value>
+      <webElementGuid>cc219feb-9d7e-4504-ae19-f90896cdfcd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Machine Learning</value>
+      <webElementGuid>9a258a75-0086-4161-a06c-ced9df7321c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-2ry0sg e1am55212&quot;]/div[@class=&quot;gamut-glpvwy-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1ttipmj-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-25mlb6-Box e1am55211&quot;]/li[@class=&quot;gamut-1ugzxxi e1am55210&quot;]/a[@class=&quot;gamut-96w4x4-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>b581768c-a83b-4023-a9e6-80ebee1e3990</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[13]/a</value>
+      <webElementGuid>da5781a7-39af-4088-ae32-b4967cd8bf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Machine Learning')]</value>
+      <webElementGuid>171e5f8d-7584-427f-8880-3d6c86848be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/catalog/subject/machine-learning')]</value>
+      <webElementGuid>6c76ec36-44d8-47b2-ac30-2eb7c1b8f2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/a</value>
+      <webElementGuid>d2f653c8-e92a-4f1a-a08e-03aee72b5c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/subject/machine-learning' and (text() = 'Machine Learning' or . = 'Machine Learning')]</value>
+      <webElementGuid>39707589-6a46-4063-b43e-27022d71b619</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

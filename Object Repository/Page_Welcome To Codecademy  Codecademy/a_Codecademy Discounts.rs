@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Codecademy Discounts</name>
+   <tag></tag>
+   <elementGuidId>1c5e4294-8a9e-42da-a71c-435788c7364d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30697ed7-ab3c-4380-aef2-9a32970fa607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pages/codecademy-discount-codes</value>
+      <webElementGuid>2bb39ab1-e2fc-4f07-b1be-b86309d14511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-gi2olp-AnchorBase e14vpv2g0</value>
+      <webElementGuid>dc20d7b1-4cda-42a5-ac6b-271e3e45d299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Codecademy Discounts</value>
+      <webElementGuid>3c73c3af-17ee-4dee-b057-1f12fc02112b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-15b6f3e-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1oivdx9-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-cdht0j-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-1jk5e01-Box ebdzcwh1&quot;]/li[@class=&quot;gamut-77pqup ebdzcwh0&quot;]/a[@class=&quot;gamut-gi2olp-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>8bf7142f-2fbd-41f8-9283-76ee18de208d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div/div/div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>2d50515c-4fef-4520-a8df-de1105fa1a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Codecademy Discounts')]</value>
+      <webElementGuid>0f52127c-6ec8-4991-84b7-997537048b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pages/codecademy-discount-codes')]</value>
+      <webElementGuid>2c999ba8-5654-411d-8d1c-a746641b2232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>2c5df696-1e75-4a34-b11c-f3273af4abd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pages/codecademy-discount-codes' and (text() = 'Codecademy Discounts' or . = 'Codecademy Discounts')]</value>
+      <webElementGuid>77e8447c-1403-42ba-ae9d-fb903082eb52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

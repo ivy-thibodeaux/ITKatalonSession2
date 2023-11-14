@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('ABC-NavigateTO'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_ABC Network - ABC.com/span_schedule'), 'schedule')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_ABC Network - ABC.com/span_schedule'), 'Schedule')
 
 WebUI.closeBrowser()
 

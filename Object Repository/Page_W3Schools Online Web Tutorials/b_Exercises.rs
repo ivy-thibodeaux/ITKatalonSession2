@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Exercises</name>
+   <tag></tag>
+   <elementGuidId>d1711705-5514-4e96-8a98-d3d87568041b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exercises_list']/div/div/h2/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#exercises_list > div.nav-heading-container.w3-container > div.nav-heading-container-title > h2 > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>43c58224-979b-42d6-877e-df6a146253d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exercises</value>
+      <webElementGuid>defb9f85-6119-49e4-b1d8-48a3aa68bd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exercises_list&quot;)/div[@class=&quot;nav-heading-container w3-container&quot;]/div[@class=&quot;nav-heading-container-title&quot;]/h2[1]/b[1]</value>
+      <webElementGuid>0f861d02-1d65-4342-8e22-d0f602b39097</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exercises_list']/div/div/h2/b</value>
+      <webElementGuid>62afcce3-bbbc-4e16-8341-ad16f5a97e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/div/div/div/div/h2/b</value>
+      <webElementGuid>95abe65b-394e-47a9-aad9-1c39469a8dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Exercises' or . = 'Exercises')]</value>
+      <webElementGuid>50d55d9e-d8e6-43d5-99e1-d9ca984c7dd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

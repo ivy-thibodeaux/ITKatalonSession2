@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_customer service</name>
+   <tag></tag>
+   <elementGuidId>e3181e12-50bc-4782-bcd7-963b40f8cef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.csr > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='jjj0']/li[7]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51e51781-b1a1-46d7-8325-30916393690a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>1064a08d-2a06-4af9-b9bd-1b844a0ae2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>customer service</value>
+      <webElementGuid>a4afcfc5-0a78-473b-967f-f5afd6d6455d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjj0&quot;)/li[7]/a[@class=&quot;csr&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>28deba79-a7fe-4337-97b0-c5c99792e1f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='jjj0']/li[7]/a/span</value>
+      <webElementGuid>470b040a-674c-4a77-9aef-2c1388c9bf07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[7]/a/span</value>
+      <webElementGuid>2dc907cc-20aa-4a51-b287-b252326bfa64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'customer service' or . = 'customer service')]</value>
+      <webElementGuid>7ffa81ef-976d-4e5e-acc1-73054e30c9fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

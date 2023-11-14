@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Analytics</name>
+   <tag></tag>
+   <elementGuidId>6a87de60-db7b-4888-9c3a-842a4479794d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aeb83cc9-08d1-449a-97d3-f3bf63472d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/subject/data-analytics</value>
+      <webElementGuid>e5e4d78d-c395-4442-9e86-40a7b1d76ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-96w4x4-AnchorBase e14vpv2g0</value>
+      <webElementGuid>7deed985-0a59-40fc-bebd-fcb0ae10e7b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Analytics</value>
+      <webElementGuid>c36a82d2-f02b-4e2c-abc6-bbf01e3a9a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/footer[@class=&quot;gamut-1y7hb43 e1xir4o10&quot;]/div[@class=&quot;gamut-3a1jmv-Box-ContentContainer e1dgn4f70&quot;]/div[@class=&quot;gamut-pnw1bs-LayoutGrid e1f7ortw0&quot;]/div[@class=&quot;gamut-1gkks2k-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-2ry0sg e1am55212&quot;]/div[@class=&quot;gamut-glpvwy-LayoutGrid e10xj1580&quot;]/div[@class=&quot;gamut-1ttipmj-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/ul[@class=&quot;gamut-25mlb6-Box e1am55211&quot;]/li[@class=&quot;gamut-1ugzxxi e1am55210&quot;]/a[@class=&quot;gamut-96w4x4-AnchorBase e14vpv2g0&quot;]</value>
+      <webElementGuid>05a17137-b633-4cd9-b249-743828763d81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer/div/div/div[2]/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>11cff4db-2599-4e4d-939e-6f0aa6db7ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Data Analytics')]</value>
+      <webElementGuid>114960a7-a990-4a39-8f87-1f837290442f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/catalog/subject/data-analytics')]</value>
+      <webElementGuid>64185d74-1df8-4c3c-979f-d57443eaf4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>6de371c1-641a-436c-94cf-556436d0fd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/subject/data-analytics' and (text() = 'Data Analytics' or . = 'Data Analytics')]</value>
+      <webElementGuid>4a78b4b9-340c-48b1-9708-45d09565aeef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

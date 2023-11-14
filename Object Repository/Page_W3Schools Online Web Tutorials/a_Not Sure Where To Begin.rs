@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Not Sure Where To Begin</name>
+   <tag></tag>
+   <elementGuidId>c27b7a1f-c9cd-4321-8782-34ef3cf94eab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.learntocodeh4 > a.ga-fp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f88ace5f-c256-4597-9e7c-59eae4a4aa2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>where_to_start.asp</value>
+      <webElementGuid>d61617c5-dbc2-4c38-b65c-2a170f7238d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ga-fp</value>
+      <webElementGuid>48d2ce8e-8611-4998-8200-765d283a2d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not Sure Where To Begin?</value>
+      <webElementGuid>a53bc13f-0c1f-4ee3-be8d-5e096f47a5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;ws-black w3-center herosection&quot;]/div[@class=&quot;w3-content learntocodecontent&quot;]/h4[@class=&quot;learntocodeh4&quot;]/a[@class=&quot;ga-fp&quot;]</value>
+      <webElementGuid>6eead263-cfc6-4ed1-8888-da24af725068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/h4/a</value>
+      <webElementGuid>d6c7add7-3ec1-4e1c-b7c2-8585e70a9e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Not Sure Where To Begin?')]</value>
+      <webElementGuid>eed2ec43-631a-4abe-a019-f1ecc1552d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'where_to_start.asp')])[5]</value>
+      <webElementGuid>47644dd2-46c5-48c0-8f85-98f95aedb21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a</value>
+      <webElementGuid>119beb33-f71e-4c57-a21d-0299ef62327d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'where_to_start.asp' and (text() = 'Not Sure Where To Begin?' or . = 'Not Sure Where To Begin?')]</value>
+      <webElementGuid>e075d08d-04d8-45a9-b7c7-4a30cdafddf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

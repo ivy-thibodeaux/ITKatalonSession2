@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_help, faq, abuse, legal</name>
+   <tag></tag>
+   <elementGuidId>c603dc69-7337-4114-b955-8b7bd2579608</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#user_resources > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='user_resources']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ebed7d77-4121-48d1-861a-a92aa5e58f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.craigslist.org/about/help/</value>
+      <webElementGuid>a94bfa16-d679-4571-95ca-bcaa9bd6b1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>help, faq, abuse, legal</value>
+      <webElementGuid>ffc1eaec-6b29-44c3-bedb-7e1cfff69ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user_resources&quot;)/li[2]/a[1]</value>
+      <webElementGuid>38c01949-4683-45f0-86a5-ecb6098edece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='user_resources']/li[2]/a</value>
+      <webElementGuid>a713d117-24c1-4e22-b719-d831c7f0dcdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'help, faq, abuse, legal')]</value>
+      <webElementGuid>5d5f7dbe-2cea-453c-b75e-bac9aa52f101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.craigslist.org/about/help/')]</value>
+      <webElementGuid>47a1c42a-68d8-4cd5-9c05-3b2600667396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a</value>
+      <webElementGuid>66163679-d8d0-49e0-b288-b41f1090d078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.craigslist.org/about/help/' and (text() = 'help, faq, abuse, legal' or . = 'help, faq, abuse, legal')]</value>
+      <webElementGuid>4da99d82-4a53-4d0d-9e83-7b2fb1ce20be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

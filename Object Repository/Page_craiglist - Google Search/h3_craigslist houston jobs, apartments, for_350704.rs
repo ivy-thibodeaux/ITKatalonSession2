@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_craigslist houston jobs, apartments, for_350704</name>
+   <tag></tag>
+   <elementGuidId>a116b6c8-e9e0-445b-bb2c-18cba5234ae5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>783800b5-b022-46fc-86ad-01801a991ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>b95e1272-1ca6-4418-8f89-f6fc7cd57830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>craigslist: houston jobs, apartments, for sale, services ...</value>
+      <webElementGuid>2913a684-f246-4890-bbe6-ef17533e2f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;N54PNb BToiNc cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>42b69eda-5e62-45d0-9442-825e48bb68dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>ae239d23-fa88-4a6a-ab55-390fd906d556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>31298422-193c-43f8-ba37-dd38c58403ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'craigslist: houston jobs, apartments, for sale, services ...' or . = 'craigslist: houston jobs, apartments, for sale, services ...')]</value>
+      <webElementGuid>93ea85c1-0ffb-453b-98da-1212fc1a1932</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_craigslist app</name>
+   <tag></tag>
+   <elementGuidId>134140d4-9f4b-4c7d-9a83-5f70fc53a48b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#user_resources > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='user_resources']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61720937-19f8-4050-8f19-ce15a902c0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.craigslist.org/about/craigslist_app</value>
+      <webElementGuid>d8af8f33-c8f7-43a0-9466-e0d46c83512d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>craigslist app</value>
+      <webElementGuid>3e9c43ad-ec2c-4d4a-8c97-8a1fc9a79d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user_resources&quot;)/li[1]/a[1]</value>
+      <webElementGuid>539b9b4f-407d-4dc5-a5bf-8a9356ecf635</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='user_resources']/li/a</value>
+      <webElementGuid>7f1fcd9f-7609-441c-9c33-3519999e9276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'craigslist app')]</value>
+      <webElementGuid>0e000b05-0b4c-49e2-bff7-1b95f1f8fe4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.craigslist.org/about/craigslist_app')]</value>
+      <webElementGuid>859ba101-1dea-4fa7-a413-aac12c918b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a</value>
+      <webElementGuid>671f6179-ac94-4623-a735-84c4b00723f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.craigslist.org/about/craigslist_app' and (text() = 'craigslist app' or . = 'craigslist app')]</value>
+      <webElementGuid>01d9a199-7175-48c6-81b7-60441ca46977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

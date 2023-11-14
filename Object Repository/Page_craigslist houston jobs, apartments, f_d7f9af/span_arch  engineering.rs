@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_arch  engineering</name>
+   <tag></tag>
+   <elementGuidId>2202fc65-6d5f-4799-b544-2e522f6db29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.egr > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='jjj0']/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a47bc3d-122e-42ca-a8e1-53029b132834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>25953aa3-17b3-4817-8693-fe7f345aada3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arch / engineering</value>
+      <webElementGuid>6e26d024-7e68-4aa3-88e6-bdc75c529baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjj0&quot;)/li[3]/a[@class=&quot;egr&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>5ad26e7a-070e-4397-9baa-751a957bd806</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='jjj0']/li[3]/a/span</value>
+      <webElementGuid>ecee22ff-a1d8-4969-885e-9d4509694c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>39d2f2d7-336f-471b-b2a5-b467355f2574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'arch / engineering' or . = 'arch / engineering')]</value>
+      <webElementGuid>b7961d65-9b04-4670-9613-ff0f69dc5c14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

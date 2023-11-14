@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_admin  office</name>
+   <tag></tag>
+   <elementGuidId>5def5df3-3252-4e18-a18a-1888b0a36ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ofc > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='jjj0']/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21aebb69-0899-4b96-950b-089347b81c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>3c3ddc7a-c21a-43d7-a4be-3a9de951eec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>admin / office</value>
+      <webElementGuid>2cee48f7-0eb0-46e6-beca-775c7d55cb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjj0&quot;)/li[2]/a[@class=&quot;ofc&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>c81b3b3f-51e1-42b7-a984-ba4852470547</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='jjj0']/li[2]/a/span</value>
+      <webElementGuid>e4f5110f-3980-49cd-8455-3de246415273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>fb65c659-1e08-4945-9b5a-22c61a61d05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'admin / office' or . = 'admin / office')]</value>
+      <webElementGuid>f4fbc16e-3ca0-44bb-ae1b-cf934c308e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

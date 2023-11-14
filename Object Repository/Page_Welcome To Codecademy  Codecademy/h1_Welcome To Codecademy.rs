@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Welcome To Codecademy</name>
+   <tag></tag>
+   <elementGuidId>26bfecf4-46e6-4dd0-b4f4-7d1067b9de65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.gamut-o2lsrx-StyledText.e8i0p5k0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>eb02507c-57b3-4c3f-b956-ab46d9763d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gamut-o2lsrx-StyledText e8i0p5k0</value>
+      <webElementGuid>067beb36-f22b-496c-b79a-8e49c420a717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome To Codecademy</value>
+      <webElementGuid>11d39c71-2c1b-40a4-ba7b-6893503139d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;e8ekv6f0 gamut-1lly2r1-VariableProvider-AppWrapper-AppWrapper e1skjn880&quot;]/div[@class=&quot;gamut-otnx7u-AppWrapper e123k1yw0&quot;]/main[@class=&quot;gamut-1efsrtw-Box ebnwbv90&quot;]/div[@class=&quot;gamut-17hayrg-Box ebnwbv90&quot;]/div[@class=&quot;gamut-g20gqk-GridBox e1onawed0&quot;]/div[@class=&quot;gamut-1on1ke2-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1mojq7a-VariableProvider e1skjn880&quot;]/div[@class=&quot;gamut-6xe16g-GridBox e13vpdv0&quot;]/div[@class=&quot;gamut-etrggn-StyledColumn e1y0e4q30&quot;]/div[@class=&quot;gamut-1kbxbgn-FlexBox e1tc6bzh0&quot;]/div[@class=&quot;gamut-1sjfsmj-Box ebnwbv90&quot;]/h1[@class=&quot;gamut-o2lsrx-StyledText e8i0p5k0&quot;]</value>
+      <webElementGuid>071e0cc0-2fc9-42f9-97bb-fb92d0ce60b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/h1</value>
+      <webElementGuid>7fc00e8f-6c35-42c1-b90c-9cd58edfd66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e7f68d74-b24b-43d9-9b35-c7cb9b0633c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Welcome To Codecademy' or . = 'Welcome To Codecademy')]</value>
+      <webElementGuid>8dbcf162-6a4d-44f4-a758-37483aabf55b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

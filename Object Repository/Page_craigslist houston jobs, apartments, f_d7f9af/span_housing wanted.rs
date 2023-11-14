@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_housing wanted</name>
+   <tag></tag>
+   <elementGuidId>9d40b7d3-4220-48ab-9f8c-934c75cf4243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.hsw > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='hhh0']/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9052ac68-0eb6-4478-8756-ec2b2ef50692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>4b94b17f-ebb7-411b-9438-d95436249edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>housing wanted</value>
+      <webElementGuid>ba910f7a-32eb-4635-9d3d-58061e10189a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hhh0&quot;)/li[3]/a[@class=&quot;hsw&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>d567fd27-2f91-4ed0-bfe6-507f6f984ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='hhh0']/li[3]/a/span</value>
+      <webElementGuid>abe92328-3e25-4dff-b533-4157620f2d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>7cae1c38-a711-4e42-a609-987972963c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'housing wanted' or . = 'housing wanted')]</value>
+      <webElementGuid>ccde1cf8-a3e2-4650-8ad0-050c81944e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_rooms wanted</name>
+   <tag></tag>
+   <elementGuidId>70229d60-a5d1-4093-bcc8-e85698f308ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sha > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='hhh0']/li[8]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>adbe627c-adc2-4c95-b56d-0763fd5a52c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>9d230a78-7b28-4fbe-8635-4f19daa1c61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rooms wanted</value>
+      <webElementGuid>83194884-63de-4873-a65e-1fe7b0c75cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hhh0&quot;)/li[8]/a[@class=&quot;sha&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>989bba4f-3dbd-4e75-b95a-14eafd87e1db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='hhh0']/li[8]/a/span</value>
+      <webElementGuid>294b7021-28f1-48df-a71e-3477979d5590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[8]/a/span</value>
+      <webElementGuid>f37726b4-8335-45ce-97dd-59ed88227212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'rooms wanted' or . = 'rooms wanted')]</value>
+      <webElementGuid>86ba242f-0226-407c-8fa0-9ef2dfab5d88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

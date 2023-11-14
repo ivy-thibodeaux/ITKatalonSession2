@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_sublets  temporary</name>
+   <tag></tag>
+   <elementGuidId>b2e72629-e09c-4e2f-8852-c7f7dfddffbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sub > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='hhh0']/li[9]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63916cbf-e755-499c-9b58-ad9e92c4e5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>17a0e54a-768d-4a44-ac8e-de5ad717034a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sublets / temporary</value>
+      <webElementGuid>adbc6e8c-27b7-445a-9945-e04d8070970a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hhh0&quot;)/li[9]/a[@class=&quot;sub&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>5669a976-46d3-416b-8d12-077f7f115eaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='hhh0']/li[9]/a/span</value>
+      <webElementGuid>063bd6cf-7b3c-42a7-9cca-32462718d737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[9]/a/span</value>
+      <webElementGuid>7ab4d0c2-4135-4f4e-845f-2be4e1fcbea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'sublets / temporary' or . = 'sublets / temporary')]</value>
+      <webElementGuid>4925adb8-bf68-46b9-815b-ec80c73a731f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

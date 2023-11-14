@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_discussion forums</name>
+   <tag></tag>
+   <elementGuidId>30a77129-25cd-49c6-9ab7-db614496cce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.forums > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='forums']/h3/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>331fa791-1712-443b-b347-7067f901e78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>68a4c007-ff48-469c-8b3f-571f02c335a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>discussion forums</value>
+      <webElementGuid>4c4199be-9c53-4e6c-a894-de66f18746f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forums&quot;)/h3[@class=&quot;ban&quot;]/a[@class=&quot;forums&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>c5bfbd3a-14fb-4564-af08-674bab54d91e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='forums']/h3/a/span</value>
+      <webElementGuid>bb285972-2ab0-4623-997c-93ad65cd5c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h3/a/span</value>
+      <webElementGuid>dce3baea-eccb-4cdf-b8c9-d29fb02c3226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'discussion forums' or . = 'discussion forums')]</value>
+      <webElementGuid>e8eb9d96-3a4a-4bcb-8c26-f0a67e7a9498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_business  mgmt</name>
+   <tag></tag>
+   <elementGuidId>0eabb16e-898b-464d-9628-7b6c1a7a75ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.bus > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='jjj0']/li[6]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cbec0018-e6d9-46c9-a429-169246e92e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>92bbabbc-c73a-4f83-96c5-1489718555ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>business / mgmt</value>
+      <webElementGuid>41d986ab-0fb4-45b5-917c-4f2429acd5b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjj0&quot;)/li[6]/a[@class=&quot;bus&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>9f98a324-3a20-4f94-830f-f7e9aa075a6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='jjj0']/li[6]/a/span</value>
+      <webElementGuid>4036fb87-4114-41c0-8bee-556a20911b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[6]/a/span</value>
+      <webElementGuid>3289d7cf-150d-43e6-9016-2710e5c37d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'business / mgmt' or . = 'business / mgmt')]</value>
+      <webElementGuid>4213c9a3-a57d-4693-8579-f5922c77e719</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

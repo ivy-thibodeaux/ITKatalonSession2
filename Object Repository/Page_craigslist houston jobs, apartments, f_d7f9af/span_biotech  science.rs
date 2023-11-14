@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_biotech  science</name>
+   <tag></tag>
+   <elementGuidId>f7b84165-7008-48be-a6b2-99adec62f130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sci > span.txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='jjj0']/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a5a8182-d2ba-49e0-baf2-7452f5bce8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt</value>
+      <webElementGuid>3a41c400-1d4b-4afb-860a-a1a7cf03b415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>biotech / science</value>
+      <webElementGuid>68e32778-33c4-4301-af6e-4bbd3422e11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjj0&quot;)/li[5]/a[@class=&quot;sci&quot;]/span[@class=&quot;txt&quot;]</value>
+      <webElementGuid>86e4b15a-b141-4073-b6b7-9641b16eb158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='jjj0']/li[5]/a/span</value>
+      <webElementGuid>3d11a780-1e53-4979-b566-5b8b5feecc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[5]/a/span</value>
+      <webElementGuid>c057dfee-9157-46fb-a768-ac85250097f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'biotech / science' or . = 'biotech / science')]</value>
+      <webElementGuid>16c509e6-da0e-4dd4-9283-77a58af5ea9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
