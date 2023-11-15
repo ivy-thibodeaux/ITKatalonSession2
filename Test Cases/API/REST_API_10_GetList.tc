@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REST_API_10_GetList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c389c3ac-fab2-4d25-ac3a-a0cfd9f3cf09</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REST_API_05_VerifyUserNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfee89c0-433d-48bd-9845-35961020d5f9</testCaseGuid>
+</TestCaseEntity>
