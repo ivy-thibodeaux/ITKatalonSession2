@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1c5cddd3-4de2-49d4-b00f-eb99e23dd3e6</webElementGuid>
+      <webElementGuid>6b3505e1-237f-437e-8ea8-00d98add96b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/auth/logout</value>
-      <webElementGuid>6f2d90c9-b3cc-4289-b927-d661f4ba2ebf</webElementGuid>
+      <webElementGuid>5809280a-7088-47a7-88d8-b5c1334c23de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>480c84b2-7d6e-4fba-98a3-09afdb8534eb</webElementGuid>
+      <webElementGuid>3773cdae-2a7e-4ff7-9e9a-7ad3ca9bf20c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-userdropdown-link</value>
-      <webElementGuid>7f5510a0-4b21-42bf-ad6c-a498f181e916</webElementGuid>
+      <webElementGuid>dce3edfa-e6ab-4272-a123-bbeb780b6916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>a2f69680-fbd3-4007-826f-5a24946791f9</webElementGuid>
+      <webElementGuid>5543734c-235b-4976-befe-7fa33d60e784</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;--active oxd-userdropdown&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[4]/a[@class=&quot;oxd-userdropdown-link&quot;]</value>
-      <webElementGuid>4da1f140-5809-4cbf-880a-d8d7c1cf9918</webElementGuid>
+      <webElementGuid>63a9a6fe-4a11-48f1-9fca-a7b1b88475b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
-      <webElementGuid>240e8aba-2b41-4408-b3c3-2613e1934b2b</webElementGuid>
+      <webElementGuid>b55fcf8a-a986-4e0e-aa24-f170995b4c29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>8157b1dd-f668-4815-83c4-28ba79261c1a</webElementGuid>
+      <webElementGuid>cb6d223f-7691-4ebb-a7bd-9d0a5bc86f8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/auth/logout')]</value>
-      <webElementGuid>61e9f167-ce5f-4b9a-9f31-393418625b56</webElementGuid>
+      <webElementGuid>0ebc6064-ca2b-4e21-a8be-407d213a3dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[4]/a</value>
-      <webElementGuid>f0559df5-64b9-45ad-8631-a674a911a6eb</webElementGuid>
+      <webElementGuid>a6edc27a-a66a-48c4-a78c-bb63869959f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/auth/logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>97853471-09b2-4fb2-897f-ad7c7670bf5c</webElementGuid>
+      <webElementGuid>ade25c63-3397-46d5-a40c-233c0eb16e72</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

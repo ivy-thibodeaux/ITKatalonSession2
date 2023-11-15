@@ -17,9 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('OrangeHRM/OrangeHRM-Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('OrangeHRM/OrangeHRM-About-Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_About'))
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index#')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/h6_About'), 'About')
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/div_AboutCompany Name OrangeHRMVersion Oran_0378f2'))
+
+WebUI.takeElementScreenshotAsCheckpoint('about-bar', findTestObject('Page_OrangeHRM/div_AboutCompany Name OrangeHRMVersion Oran_0378f2'))
 

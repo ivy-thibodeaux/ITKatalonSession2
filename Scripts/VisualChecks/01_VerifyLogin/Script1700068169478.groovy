@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM/OrangeHRM-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_About'))
+WebUI.takeElementScreenshotAsCheckpoint('verify_log_out_btn', findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/h6_About'), 'About')
+WebUI.closeBrowser()
 
